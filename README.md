@@ -1,2 +1,1 @@
-# hello-world
-tutorial
+this repository is done for the github tutorials
